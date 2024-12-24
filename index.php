@@ -170,7 +170,7 @@ a{
   <div class="sides"> <a href="#" class="menu"> </a></div>
   <div class="info">
   <h4><a href="#category">Punit Darji</a></h4>
-    <h1>Cross Account Attack Lab</h1>
+    <h1>Pwnsystem EC2 Instance Attack Lab</h1>
      <div class="s131">
       <form method="POST">
         <div class="inner-form">
