@@ -197,7 +197,7 @@ a{
         }
       ?> 
 <p>Created By Punit Darji</p>
-  <p align="center"><a href="https://twitter.com/punitdarji" class="btn twtr" target="_b">Follow me on Twitter</a>
+  <p align="center"><a href="https://www.youtube.com/@punitdarji1871" class="btn twtr" target="_b">Follow me on Twitter</a>
   </p>
 </section>
 
