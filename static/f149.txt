@@ -1,1 +1,1 @@
-vnm{successfully_exploit_ec2_ssrf_vulnerability}
+pwn{successfully_exploit_ec2_ssrf_vulnerability}
